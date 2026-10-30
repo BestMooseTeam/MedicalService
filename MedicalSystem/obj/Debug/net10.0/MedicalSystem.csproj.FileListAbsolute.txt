@@ -1,0 +1,15 @@
+D:\КлодКод\MedicalSystem\MedicalSystem\bin\Debug\net10.0\MedicalSystem.exe
+D:\КлодКод\MedicalSystem\MedicalSystem\bin\Debug\net10.0\MedicalSystem.deps.json
+D:\КлодКод\MedicalSystem\MedicalSystem\bin\Debug\net10.0\MedicalSystem.runtimeconfig.json
+D:\КлодКод\MedicalSystem\MedicalSystem\bin\Debug\net10.0\MedicalSystem.dll
+D:\КлодКод\MedicalSystem\MedicalSystem\bin\Debug\net10.0\MedicalSystem.pdb
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.AssemblyInfoInputs.cache
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.AssemblyInfo.cs
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.csproj.CoreCompileInputs.cache
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.sourcelink.json
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.dll
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\refint\MedicalSystem.dll
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.pdb
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\MedicalSystem.genruntimeconfig.cache
+D:\КлодКод\MedicalSystem\MedicalSystem\obj\Debug\net10.0\ref\MedicalSystem.dll
