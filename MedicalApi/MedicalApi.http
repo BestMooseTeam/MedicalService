@@ -1,0 +1,40 @@
+@MedicalApi_HostAddress = http://localhost:5207
+
+GET {{MedicalApi_HostAddress}}/api/SpravkaTypes
+Accept: application/json
+
+###
+
+POST {{MedicalApi_HostAddress}}/api/Patients
+Content-Type: application/json
+
+{
+  "name": "Alice",
+  "birthDate": "2000-05-15",
+  "iin": "000515450111",
+  "phone": "+7 700 111 22 33",
+  "districtNumber": 2,
+  "hasInsurance": true
+}
+
+###
+
+POST {{MedicalApi_HostAddress}}/api/Spravki
+Content-Type: application/json
+
+{
+  "patientId": 1,
+  "spravkaTypeId": 3
+}
+
+###
+
+GET {{MedicalApi_HostAddress}}/api/Spravki?patientId=1&sortBy=price&descending=true
+Accept: application/json
+
+###
+
+GET {{MedicalApi_HostAddress}}/api/Statistics
+Accept: application/json
+
+###
